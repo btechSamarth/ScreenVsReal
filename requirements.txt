@@ -8,5 +8,5 @@ seaborn
 scikit-image
 torch
 torchvision
-PIL
+pillow
 sys
