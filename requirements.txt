@@ -1,6 +1,6 @@
 joblib
 xgboost
-opencv-python
+opencv-python-headless
 numpy
 pandas
 matplotlib
