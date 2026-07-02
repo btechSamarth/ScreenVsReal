@@ -1,0 +1,12 @@
+joblib
+xgboost
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-image
+torch
+torchvision
+PIL
+sys
